@@ -2,14 +2,9 @@
 
 # DL_info
 
-# 앤드류 응 선생님의 명강의모음
-오차역전파 강의 of 앤드류 응
- 
-https://www.youtube.com/watch?v=nJyUyKN-XBQ&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=14
- 
-로지스틱 회귀에서의 경사하강법
- 
-https://www.youtube.com/watch?v=z_xiwjEdAC4&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=15 
+# 앤드류 응 선생님의 딥러닝의 AtoZ
+
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
 
 
 # 정보를 찾다가 유용한 것이 있으면 기록하는 습관을 들이자
@@ -20,3 +15,9 @@ https://www.youtube.com/watch?v=z_xiwjEdAC4&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOE
  
 2. PCA말고 t-SNE라는 기법도 있다. 이것 역시 고차원의 데이터의 차원을 줄이는 기법이고 원본 데이터를 가장 잘 표현하도록 한다. 하지만 많은 계산이 요구된다. 따라서, 엄청난 고차원의 경우, 1차로 차원을 축소한 후 TSNE를 적용하는 것을 추천한다. 실제로 PCA보다 TSNE의 결과를 시각화해보면 분류를 해내는 능력이 훨씬 더 뛰어나다는 것을 알 수 있을 것이다.
 링크: https://skyeong.net/284
+
+
+- gradient descent
+
+1. ![image](https://user-images.githubusercontent.com/43164589/110793059-8a8c2b00-82b7-11eb-8ce5-958f24656d01.png)
+![image](https://user-images.githubusercontent.com/43164589/110793152-a394dc00-82b7-11eb-9313-2dffdfd11bce.png)
