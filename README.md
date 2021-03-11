@@ -43,3 +43,5 @@ https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
 # Vectoring Logistic Regression(정방향 전파의 경우)
 
 ![image](https://user-images.githubusercontent.com/43164589/110806304-4738b900-82c5-11eb-8e70-8c3414467dd8.png)
+
+위 그림에서 Large(X)는 (n_x,m) 행렬벡터
