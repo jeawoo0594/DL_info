@@ -38,3 +38,8 @@ https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
 - Numpy.dot(w,x)를 활용해서 연산 시간을 단축시키자
 - 벡터라이즈는 병렬화의 장점을 이용하는 것!
 - 가능한한 딥러닝에서 for문의 사용을 자제해야한다!
+
+
+# Vectoring Logistic Regression(정방향 전파의 경우)
+
+![image](https://user-images.githubusercontent.com/43164589/110806304-4738b900-82c5-11eb-8e70-8c3414467dd8.png)
