@@ -19,8 +19,7 @@ https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
 
 # gradient descent
 
-1. ![image](https://user-images.githubusercontent.com/43164589/110793059-8a8c2b00-82b7-11eb-8ce5-958f24656d01.png)
-
+![image](https://user-images.githubusercontent.com/43164589/110793059-8a8c2b00-82b7-11eb-8ce5-958f24656d01.png)
 ![image](https://user-images.githubusercontent.com/43164589/110793152-a394dc00-82b7-11eb-9313-2dffdfd11bce.png)
 
 cost(w) = (1/2M)*sum(Wx(i)-y(i))^2
