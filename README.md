@@ -2,12 +2,14 @@
 
 # DL_info
 
-# 앤드류 응 선생님의 딥러닝의 AtoZ
+# 1. 앤드류 응 선생님의 딥러닝의 AtoZ
 
 https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
 
 
-## 정보를 찾다가 유용한 것이 있으면 기록하는 습관을 들이자
+
+
+# 2. 정보를 찾다가 유용한 것이 있으면 기록하는 습관을 들이자
 
 # In image data EDA, PCA of dimensionality reduction using
  
