@@ -10,7 +10,6 @@ https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
 
 
 # 2. 정보를 찾다가 유용한 것이 있으면 기록하는 습관을 들이자
-
 # In image data EDA, PCA of dimensionality reduction using
  
 1. PCA는 데이터에 있는 정보들을 대부분 유지하면서 차원을 줄이는 통계방법이다. 인간은 3차원이 넘어가는 데이터로부터 시각적으로 유용한 정보를 찾기가 어렵다. 따라서, PCA를 이용하여 고차원의 데이터를 3차원으로 줄이고 이것을 시각화해보면 각 데이터마다 어떤 특징이 있는지 알아볼 수 있다.
