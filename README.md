@@ -22,15 +22,15 @@ https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
 
 ![image](https://user-images.githubusercontent.com/43164589/110793059-8a8c2b00-82b7-11eb-8ce5-958f24656d01.png)    ![image](https://user-images.githubusercontent.com/43164589/110793152-a394dc00-82b7-11eb-9313-2dffdfd11bce.png)
 
-cost(w) = (1/2M)*sum(Wx(i)-y(i))^2
+  cost(w) = (1/2M)*sum(Wx(i)-y(i))^2
 
 - repeat: W:= W-alpha(learning rate)(d/dW)cost(W)
 
- Thus, W:= W - alpha(1/M) * sum(Wx(i)-y(i))*x(i)
+  Thus, W:= W - alpha(1/M) * sum(Wx(i)-y(i))*x(i)
 
 - 만약, (W,cost(W))가 미분계수(기울기)가 양의 값을 가질때, W-alpha(learning rate)(d/dW)cost(W)에 의해 update된 W는 왼쪽방햐으로 한 단계 이동하는 것이다.
 
-여기서 update 되는 횟수는 mini batch가 1 에폭을 도달하기까지와 전체 에폭이 달성될떄까지 update 되는 것이다.
+   여기서 update 되는 횟수는 mini batch가 1 에폭을 도달하기까지와 전체 에폭이 달성될떄까지 update 되는 것이다.
 
 
 # Vectorization
